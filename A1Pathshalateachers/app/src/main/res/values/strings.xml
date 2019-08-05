@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A1Pathshala Teacher</string>
+    <string name="login_page">A1Pathshala Teachers Login</string>
+    <string name="brand_name">A1Pathshala Teacher\u2122</string>
+    <string name="splash_name">A1Pathshala Teacher</string>
+    <string name="brand_desc">\u00A9 Grab Infotech</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="attendance_take">Hello, Ready for the attendance.</string>
+    <string name="attendance_taken">The attendace has already been taken for this class. You can click the below button to view today"'"s class strength.</string>
+    <string name="attendance_taken_edit">The attendace has already been taken for this class. You can click the below button to view or edit today"'"s class strength.</string>
+    <string name="prompt_school">Select School</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A1Pathshala Parents</string>
+    <string name="login_page">A1Pathshala Parents Login</string>
+    <string name="brand_name">A1Pathshala Parents\u2122</string>
+    <string name="splash_name">A1Pathshala Parents</string>
+    <string name="brand_desc">\u00A9 Grab Infotech</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Track_Bus">Track Bus</string>
+
+    <string name="prompt_school">Select School</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="places_api_key">AIzaSyCXRr2l1oKXX12RXoapY88coCjbtpI-sQM</string>
+
+
+</resources>
